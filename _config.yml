@@ -103,5 +103,6 @@ theme: pure
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
     type: git
-    repository: https://github.com/tan-anran/tan-anran.github.io.git
+    repository: 
+      github: git@github.com:tan-anran/tan-anran.github.io
     branch: master
